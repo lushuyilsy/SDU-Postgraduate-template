@@ -13,25 +13,10 @@
 
 在之前版本基础上修复 bug 若干：
 
-- 修改论文封面。
-- 论文封面增加新的字段。
-- 增加英文摘要、中英文关键字。
-- 修复摘要 `minipage` 无法换页的问题。
-- 按要求修改页码显示方式。
-- 单页只能有两张图片的 bug。
-- 增加致谢、参考文献等章节。
-- 设置某些特定章节在目录中不参与编号。
-- 修复双页打印问题。
-- 使用 `tabincell` 完成表格内换行，多行表格可垂直居中。
-- 使用 `wrapfigure` 并添加 `wrapfig` 包。
-- 修复复制时英文字符映射为乱码的问题。
-- 修复目录页为 `minipage` 导致目录显示不全的问题。
-- 从目录中移除目录项 `nottoc` 参数。
-- 增加英文目录。
-- 修复目录页 `section` 等字段不显示点号的问题。
-- 去掉正文前 `section` 前的双 S 符号。
-- 增加定理定义等命令定义。
-- ……
+--更新了在TeXworks编译器下段落开头空格的问题
+--修改了页眉下划线
+--所有数字更新为了Times New Roman字体
+--
 
 特别感谢[ChenMeng0518](https://github.com/ChenMeng0518/sduthesis)同学提供学士学位论文模板。
 
@@ -70,6 +55,7 @@
 ## 获取与更新
 
 请到项目的 GitHub 页获取： <https://github.com/cnDelbert/SDU_thesis_template_for_postgraduate>。
+
 
 ### LICENSE
 
