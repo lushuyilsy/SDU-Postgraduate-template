@@ -13,9 +13,12 @@
 
 在之前版本基础上修复 bug 若干：
 
---更新了在TeXworks编译器下段落开头空格的问题
---修改了页眉下划线
---所有数字更新为了Times New Roman字体
+  1.更新了在TeXworks编译器下段落开头空格的问题
+  
+  2.修改了页眉下划线
+  
+  3.所有数字更新为了Times New Roman字体
+  
 --
 
 特别感谢[ChenMeng0518](https://github.com/ChenMeng0518/sduthesis)同学提供学士学位论文模板。
